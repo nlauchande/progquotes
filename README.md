@@ -13,3 +13,6 @@ Programming quotes to be used on different contests - discussions and code revie
 ## Debugging
 “The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.” -Brian Kernighan
 
+## Practice
+“We’re talking about practice!” -Allen Iverson
+
