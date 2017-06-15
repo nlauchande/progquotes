@@ -1,5 +1,5 @@
 # progquotes
-Programming quotes to be used on different contests - discussions and code reviews
+Programming quotes to be used on different contests - discussions and code reviews . The focus here is on profound arguments that will help make your case in a PR .
 
 ## Succint Code
 “Brevity is the soul of wit.” -William Shakespeare
