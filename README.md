@@ -1,5 +1,5 @@
 # progquotes
-Programming quotes to be used on different contexts - around discussions and code reviews between programmers and with some responsible adult supervision to prevent abuse this can be used by brogrammers as well :) . The focus here is to collect classic quotes that would make your gray PR or comments look classy and legendary. Tried to group this as well to help you figure out the best situation to use it .
+Programming quotes to be used on different contexts - around discussions and code reviews between programmers and with some responsible adult supervision to prevent abuse this can be used by brogrammers as well :) . The focus here is to collect classic quotes that would make your gray PR or comments look classy and legendary. Tried to group them as well to help you figure out the best situation to use it .
 
 ## Succint Code
 “Brevity is the soul of wit.” -William Shakespeare
