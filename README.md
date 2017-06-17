@@ -16,8 +16,10 @@ Programming quotes to be used on different contexts - around discussions and cod
 ## Practice
 “We’re talking about practice!” -Allen Iverson
 
+"There's no compression algorithm for experience."  - Andy Jassy
+
 ## Smelly code
 "A system cannot be successful if it is too strongly influenced by a single person." - Donald Knuth
 
 ## Misuse of language/technique
-"The limits of my language mean the limit of my world" - Ludwig Wittgenstein
+"The limits of my language mean the limit of my world." - Ludwig Wittgenstein
