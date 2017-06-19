@@ -21,5 +21,8 @@ Programming quotes to be used on different contexts - around discussions and cod
 ## Smelly code
 "A system cannot be successful if it is too strongly influenced by a single person." - Donald Knuth
 
+## Terrible code
+"Dude, sucking at something is the first step to being sorta good at something." - Jake the dog
+
 ## Misuse of language/technique
 "The limits of my language mean the limit of my world." - Ludwig Wittgenstein
