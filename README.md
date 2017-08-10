@@ -26,3 +26,6 @@ Programming quotes to be used on different contexts - around discussions and cod
 
 ## Misuse of language/technique
 "The limits of my language mean the limit of my world." - Ludwig Wittgenstein
+
+## Premature optimization
+"If you are moving very fast you can go sideways" - C. S.
