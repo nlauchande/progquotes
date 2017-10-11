@@ -29,3 +29,9 @@ Programming quotes to be used on different contexts - around discussions and cod
 
 ## Premature optimization
 "If you are moving very fast you can go sideways" - C. S.
+
+## Brilliantly non intuitive
+ "Primeiro estranha-se. Depois entranha-se" - PT /  "First you find it strange. Then you can't get enough of it." - EN  - Fernando Pessoa 
+
+
+
