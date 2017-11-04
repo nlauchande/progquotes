@@ -9,6 +9,8 @@ The focus here is to collect classic quotes that would make your gray PR or comm
 ## Refactoring 
 “The mark of a mature programmer is willingness to throw out code you spent time on when you realize it’s pointless.” -Bram Cohen
 
+"The object isn't to make art, it's to be in that wonderful state which makes art inevitable." - Robert Henri
+
 ## Bugfix
 “Move fast and break things. Unless you are breaking stuff, you are not moving fast enough.” -Mark Zuckerberg
 
@@ -34,6 +36,3 @@ The focus here is to collect classic quotes that would make your gray PR or comm
 
 ## Brilliantly non intuitive
  "Primeiro estranha-se. Depois entranha-se" - PT /  "First you find it strange. Then you can't get enough of it." - EN  - Fernando Pessoa 
-
-
-
