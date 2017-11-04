@@ -22,13 +22,11 @@ The focus here is to collect classic quotes that would make your gray PR or comm
 
 "There's no compression algorithm for experience."  - Andy Jassy
 
-## Smelly code
-"A system cannot be successful if it is too strongly influenced by a single person." - Donald Knuth
-
-## Terrible code
+## Bad code
 "Dude, sucking at something is the first step to being sorta good at something." - Jake the dog
 
-## Misuse of language/technique
+"A system cannot be successful if it is too strongly influenced by a single person." - Donald Knuth
+
 "The limits of my language mean the limit of my world." - Ludwig Wittgenstein
 
 ## Premature optimization
