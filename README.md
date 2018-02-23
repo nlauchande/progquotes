@@ -3,8 +3,11 @@ Programming quotes to be used on different contexts - around discussions and cod
 
 The focus here is to collect classic quotes that would make your gray PR or comments look classy and legendary. Tried to group them as well to help you figure out the best situation to use it .
 
-## Succint Code
+## Succint/Simple Code
 “Brevity is the soul of wit.” -William Shakespeare
+
+“Simplicity does not precede complexity, but follows it.” -Alan Perlis
+
 
 ## Refactoring 
 “The mark of a mature programmer is willingness to throw out code you spent time on when you realize it’s pointless.” -Bram Cohen
